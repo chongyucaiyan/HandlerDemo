@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HandlerDemo</string>
+
+    <string name="main_count_format">Count: %d</string>
 </resources>

@@ -11,7 +11,8 @@
     tools:context="com.github.cyc.handlerdemo.MainActivity">
 
     <TextView
+        android:id="@+id/tv_main_count"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        tools:text="Count: 0" />
 </RelativeLayout>
